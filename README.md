@@ -6,13 +6,3 @@ For referencs:
 ## Learn Markdown:
 - pandao.github.io/editor.md/en.html
 
-
-- Point1
-- Point2
-
----
-
-```
-print('Hello World')
-```
-
